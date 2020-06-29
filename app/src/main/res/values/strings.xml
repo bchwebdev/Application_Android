@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">DIP</string>
+    <string name="button1">TP 1</string>
+    <string name="button2">TP 2</string>
+    <string name="textview1tp1" />
+    <string name="textviewtp1">Formation</string>
+    <string name="tv1tp1">Formation</string>
+    <string name="tv2tp1">E-mail</string>
+    <string name="tv3tp1">Mot de passe</string>
+    <string name="Button1tp1">SE CONNECTER</string>
+    <string name="textEmailAddress" />
+    <string name="EmailAddress" />
+    <string name="Email" />
+    <string name="button3">TP 3</string>
+    <string name="tv1">tv1tp3</string>
+    <string name="tv2">tv2tp3</string>
+    <string name="tv3">tv3tp3</string>
+    <string name="Button1">SE CONNECTER</string>
+    <string name="Formation">tv1tp3</string>
+    <string name="tv1tp3">Formation</string>
+    <string name="tv2tp3">E-mail</string>
+    <string name="tv3tp3">Mot de passe</string>
+    <string name="tv4tp3">E-mail ou mot de passe incorrect</string>
+    <string name="button4">TP 4</string>
+    <string name="title_activity_tp4__bottom_navigation">Tp4_BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Button5">TP 5</string>
+    <string name="Button6">"TP 6 "</string>
+    <string name="Button7">TP 7</string>
+    <string name="Button8">TP 8</string>
+    <string name="Button9">TP 9</string>
+
+    <string name="bottom_navigation_menu_frag1">Fragment1</string>
+    <string name="bottom_navigation_menu_frag2">Fragment2</string>
+    <string name="bottom_navigation_menu_frag3">Fragment3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
